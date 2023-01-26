@@ -1,0 +1,8 @@
+h1{
+    display: flex;
+    align-items: center;
+    font: italic;
+    border: 5;
+    border-radius: 10;
+    background-color: #4a034d;
+}
